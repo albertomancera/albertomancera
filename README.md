@@ -30,15 +30,14 @@
 
 ## 📊 Mis estadísticas en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=albertomancera&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ## 🔥 Racha de actividad
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=albertomancera&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -51,7 +50,7 @@
   <a href="tu_linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="albertomanceraplaza22@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/albertomanceraplaza_22">
