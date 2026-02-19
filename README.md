@@ -30,12 +30,6 @@ Plataforma web integral para la gestión de reservas de autobús y comunidad de 
 * **Tecnologías:** Python, Django, SQLite, HTML5, CSS, Bootstrap 5.
 * **Características:** Modo oscuro personalizado ("Noche Malaguista"), sistema de autenticación "Split-Screen", control de aforo en tiempo real, reproductor multimedia integrado y diseño web responsive.
 
-## 📊 Mis estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertomancera&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🔥 Racha de actividad
 <p align="center">
